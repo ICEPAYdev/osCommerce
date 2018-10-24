@@ -2,7 +2,7 @@
 
 # Payment Module for osCommerce
 
-Make payments in your osCommerce webshop possible. Download the special osCommerce webshop module [here](https://github.com/icepay/osCommerce/releases) and you will be able to offer the most frequently used national and international online payment methods.
+Make payments in your osCommerce webshop possible. Download the special osCommerce webshop module [here](https://github.com/icepay/osCommerce/releases) and you will be able to offer the most frequently used national and international online payment methods. Installation and configuration instruction is available [here](https://github.com/ICEPAY/osCommerce/wiki).
 
 ## Contributing ##
 
