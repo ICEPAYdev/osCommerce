@@ -536,6 +536,7 @@ if (!class_exists('icepay')) {
                 'icepay_sms.php',
                 'icepay_giropay.php',
                 'icepay_ebanking.php',
+                'icepay_creditclick.php',
                 '../../../ext/modules/payment/icepay/notify.php',
                 '../../../ext/modules/payment/icepay/result.php'
             );
