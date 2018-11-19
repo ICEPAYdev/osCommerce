@@ -123,7 +123,7 @@ if (!class_exists('icepay')) {
             $statuserror = false;
 
             $this->code = 'icepay';
-            $this->version = "2.3.8";
+            $this->version = "2.3.9";
             $this->manualLink = "https://icepay.com/downloads/pdf/manuals/oscommerce/oscommerce-implementation-manual-icepay.pdf";
             $this->title = $this->getTitle("Core module");//MODULE_PAYMENT_ICEPAY_TEXT_TITLE;
             $this->description = MODULE_PAYMENT_ICEPAY_TEXT_DESCRIPTION;
